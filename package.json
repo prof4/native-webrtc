@@ -14,9 +14,6 @@
     "start": "PROD=true node server.js",
     "postinstall": "cd ./client && yarn"
   },
-  "scripts": {
-    "start": "node server.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/prof4/native-webrtc.git"
